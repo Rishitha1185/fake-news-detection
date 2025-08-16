@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.ipynb_checkpoints
+.venv/
+env/
+venv/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
