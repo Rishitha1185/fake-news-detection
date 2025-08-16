@@ -1,3 +1,4 @@
+
 # Fake News Detection (Starter Project)
 
 A beginner-friendly, **ready-to-run** fake news detection app built with **Streamlit**, **scikit-learn**, and **TF‑IDF + Logistic Regression**.  
@@ -60,3 +61,7 @@ git push -u origin main
 ## 📝 Notes
 - This is a **starter** to showcase skills. For stronger results, use a larger dataset and consider models like Linear SVM or fine-tuned transformers.
 - Keep your README updated with **results, screenshots, and what you learned**.
+
+# fake-news-detection
+fake news detection using Machine Learning and Streamlit
+
